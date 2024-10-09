@@ -1,12 +1,12 @@
-# 0373-A2-SergiNebot
+# 1. 0373-A2-SergiNebot
 1. ¿Qué es una página web?
 
-No se definirlo
+    No se definirlo
 
 
 2. ¿Qué es un servidor web?
 
-Un servidor web sirve para publicar las páginas web que se han creado
+    Un servidor web sirve para publicar las páginas web que se han creado
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces? 
 
@@ -16,7 +16,7 @@ Un servidor web sirve para publicar las páginas web que se han creado
 
 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
-Es un lenguaje que sirve principalmente para crear páginas web, programas, etc…
+    Es un lenguaje que sirve principalmente para crear páginas web, programas, etc…
 
 ```
 <!DOCTYPE html>
@@ -35,14 +35,12 @@ _Figura 1: Estructura de código HTML_
 
 5. ¿Qué es CSS?
 
-Es un archivo que sirve para retocar el aspecto de una página web
+    Es un archivo que sirve para retocar el aspecto de una página web
 
 
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
 
-Programas la página web con los comandos, textos, luego configuras el css para que la
-página web se vea bien y por último tendremos que encender el servidor web para poder
-subir pagina web que hemos creado y configurado.
+    Programas la página web con los comandos, textos, luego configuras el css para que la página web se vea bien y por último tendremos que encender el servidor web para poder subir pagina web que hemos creado y configurado.
 
 ![Paguina_web](web.png "Servidor web")
 
