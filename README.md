@@ -40,9 +40,9 @@ Es un archivo que sirve para retocar el aspecto de una página web
 
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
 
-Programas la página web con los comandos, textos, luego configuras el css para que la
+<span style="color:red">Programas la página web con los comandos, textos, luego configuras el css para que la
 página web se vea bien y por último tendremos que encender el servidor web para poder
-subir pagina web que hemos creado y configurado.
+subir pagina web que hemos creado y configurado.</span>
 
 ![Paguina_web](web.png "Servidor web")
 
