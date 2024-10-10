@@ -10,11 +10,13 @@
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces? 
 
-- HTML
-- CSS
-- Javascript
+    | Lenjuages | Documentación |
+    |:----------:|:--------------:|
+    | **HTML** | [Documentación HTML](https://www.manualweb.net/html/enlaces-html/) | 
+    | **Markdown**  |[Documentación Markdown](https://markdown.es/) |
+    |**XML** | [Documentación XML](https://www.ibm.com/docs/es/odm/8.11.1?topic=binding-what-is-xml) |
 
-4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
+1. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
     Es un lenguaje que sirve principalmente para crear páginas web, programas, etc…
 
