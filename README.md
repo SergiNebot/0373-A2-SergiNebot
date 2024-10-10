@@ -16,7 +16,7 @@
     | **Markdown**  |[Documentación Markdown](https://markdown.es/) |
     |**XML** | [Documentación XML](https://www.ibm.com/docs/es/odm/8.11.1?topic=binding-what-is-xml) |
 
-1. ¿Qué es HTML ? ¿Sabes cómo se estructura?
+1. ¿Qué es ```HTML``` ? ¿Sabes cómo se estructura?
 
     Es un lenguaje que sirve principalmente para crear páginas web, programas, etc…
 
@@ -35,7 +35,7 @@
 ```
 _Figura 1: Estructura de código HTML_
 
-5. ¿Qué es CSS?
+5. ¿Qué es ```CSS```?
 
     Es un archivo que sirve para retocar el aspecto de una página web
 
